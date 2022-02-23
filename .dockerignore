@@ -1,2 +1,3 @@
 #exclud list for the image
 Dockerfile
+GIT_BRANCH
